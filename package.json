@@ -1,6 +1,6 @@
 {
   "name": "myth",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Use Myth to preprocess pure CSS",
   "license": "MIT",
   "repository": "https://github.com/toreholmberg/atom-myth",
