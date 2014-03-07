@@ -1,0 +1,22 @@
+{
+  "name": "myth",
+  "version": "0.1.0",
+  "description": "Use Myth to preprocess pure CSS",
+  "license": "MIT",
+  "repository": "https://github.com/toreholmberg/atom-myth",
+  "private": true,
+  "activationEvents": [
+    "myth"
+  ],
+  "author": {
+    "name": "Tore Holmberg",
+    "email": "tore.holmberg@gmail.com",
+    "url": "http://toreholmberg.se"
+  },
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "myth": "^0.3.0"
+  }
+}
